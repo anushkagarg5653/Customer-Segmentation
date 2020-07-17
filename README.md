@@ -1,2 +1,2 @@
 # Customer-Segmentation
-MLProject
+ML Project
